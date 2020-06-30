@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>856621078699-lbbt7jhk8sjnkek0krmg8r3g26m7r60i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.856621078699-lbbt7jhk8sjnkek0krmg8r3g26m7r60i</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>856621078699-7sd153h3qq9r9t9s54u716r3ra76hu9a.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDvi3XcBkOI-MXwgRKjPoYtbFh7CeHArsI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>856621078699</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dfs.whitebakeryflutterjs</string>
+	<key>PROJECT_ID</key>
+	<string>whitebakery-d6cc8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whitebakery-d6cc8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:856621078699:ios:9aea2e60b07b6084803fee</string>
+	<key>DATABASE_URL</key>
+	<string>https://whitebakery-d6cc8.firebaseio.com</string>
+</dict>
+</plist>

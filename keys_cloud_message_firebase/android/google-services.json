@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "856621078699",
+    "firebase_url": "https://whitebakery-d6cc8.firebaseio.com",
+    "project_id": "whitebakery-d6cc8",
+    "storage_bucket": "whitebakery-d6cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856621078699:android:8f0eece949bb3edb803fee",
+        "android_client_info": {
+          "package_name": "com.dfs.whitebakeryflutterjs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856621078699-7sd153h3qq9r9t9s54u716r3ra76hu9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dfs.whitebakeryflutterjs",
+            "certificate_hash": "3a182d6bd9a91f04909a56a592f3437d4dfc7b62"
+          }
+        },
+        {
+          "client_id": "856621078699-7rs0hnj87u9sn1prnpng2d2bebcml6vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3iGw5VrW4kyGHQjbsOkdKakROibiHaK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856621078699-7rs0hnj87u9sn1prnpng2d2bebcml6vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
